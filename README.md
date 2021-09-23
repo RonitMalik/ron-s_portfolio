@@ -9,7 +9,10 @@ This is a project I did for my masters research paper, where I build a recommend
 * The Project Write-up is published on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3791837)
 
 ## Overview Of The Singular Value Decomposition Architecture 
-![](/Image/image%20.jpg)
+![](https://github.com/RonitMalik/ron-s_portfolio/blob/main/Images/Picture%201.png)
+
+## Popular Movie Genres 
+![](https://github.com/RonitMalik/ron-s_portfolio/blob/main/Images/Picture%202.png)
 
 
 # [Project 2: Amazon Price Scrapper](https://github.com/RonitMalik/BlackFriday_pythonScrapper)
